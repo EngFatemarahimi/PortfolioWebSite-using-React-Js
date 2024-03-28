@@ -1,13 +1,12 @@
 
-import styles  from  "./App.module.css"
+import  "./App.module.css"
 
 function App() {
   
 
   return (
     <>
-       fatema rahimi
-
+     
       
     </>
   )
